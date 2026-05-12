@@ -43,8 +43,8 @@ An analytical section proving correlations.
 * **DAX (Data Analysis Expressions):** Advanced analytical measures. Sample code from the project:
   ```dax
   % Fixed Deposits = 
-  VAR FdUsers = CALCULATE(COUNTROWS('Dim_investor'), 'Dim_investor'[Avenue] = "Fixed Deposits")
-  VAR TotalUsers = COUNTROWS('Dim_investor')
+  VAR FdUsers = CALCULATE(COUNTROWS('finance trends 2020-2025'), 'finance trends 2020-2025'[Avenue] = "Fixed Deposits")
+  VAR TotalUsers = COUNTROWS('finance trends 2020-2025')
   RETURN DIVIDE(FdUsers, TotalUsers, 0)
 
 
