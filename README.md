@@ -3,10 +3,10 @@
 Kompletna analiza behawioralna inwestorów, badająca relacje między demografią, skłonnością do ryzyka a wyborem instrumentów finansowych.
 ---
 
-## 🎯 Cel Projektu (Business Case)
-Większość raportów finansowych skupia się na tym, **ile** kapitału płynie na rynek. Ten projekt odpowiada na pytanie: **dlaczego** tam płynie. Celem dashboardu jest dostarczenie instytucjom finansowym i doradcom wiedzy o psychologii inwestorów, co pozwala na lepsze profilowanie produktów i optymalizację strategii marketingowych.
+<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/7bea7ced-6d2b-4841-bbe7-d2d55f5b84e5" />
 
-<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/5499318f-bc10-43ff-8984-76e480531918" />
+## Cel Projektu (Business Case)
+Większość raportów finansowych skupia się na tym, **ile** kapitału płynie na rynek. Ten projekt odpowiada na pytanie: **dlaczego** tam płynie. Celem dashboardu jest dostarczenie instytucjom finansowym i doradcom wiedzy o psychologii inwestorów, co pozwala na lepsze profilowanie produktów i optymalizację strategii marketingowych.
 
 
 ## 📊 Główne Wnioski Biznesowe (Key Insights)
@@ -26,7 +26,6 @@ Główny panel sterowania z wykorzystaniem zjawiska *Glassmorphism* oraz efektem
 * Demografię inwestorów (Płeć, Wiek).
 * Ranking najpopularniejszych instrumentów (Avenues).
 * Indeks codziennego sprawdzania portfela (Stres rynkowy).
-<img width="1326" height="741" alt="image" src="https://github.com/user-attachments/assets/d99491c9-2b1d-4406-8620-ad225d8063e5" />
 
 
 ### 2. Risk Analysis (Ryzyko vs Oczekiwane Zyski)
@@ -36,7 +35,7 @@ Sekcja analityczna udowadniająca korelacje.
 
 ### 3. Psychological Drivers (Cele i Powody)
 * Szczegółowy podział powodów, dla których inwestorzy wybierają giełdę (Equity) w kontrze do bezpiecznych lokat (Fixed Deposits).
-
+<img width="1326" height="741" alt="image" src="https://github.com/user-attachments/assets/d99491c9-2b1d-4406-8620-ad225d8063e5" />
 ---
 
 ## 🛠️ Wykorzystane Technologie i Umiejętności
